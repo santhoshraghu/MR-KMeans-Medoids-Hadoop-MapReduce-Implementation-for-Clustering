@@ -1,2 +1,7 @@
 # MR-KMeans-Medoids-Hadoop-MapReduce-Implementation-for-Clustering
 Big Data 
+• Engineered a robust Java Map-Reduce solution for the K-Means clustering algorithm, featuring both single-iteration and multi-iteration implementations.
+• Applied cutting-edge optimization techniques and meticulously addressed output variations to enhance algorithm efficiency.
+• Executed comprehensive experiments, systematically varying parameters to conduct in-depth performance and convergence analyses.
+• Spearheaded the development of the K-Medoids clustering algorithm within the MapReduce framework, extending from the foundation laid by K-Means, showcasing proficiency in advanced data clustering techniques and Hadoop ecosystems.• Engineered a robust Java Map-Reduce solution for the K-Means clustering algorithm, featuring both single-iteration and multi-iteration implementations. • Applied cutting-edge optimization techniques and meticulously addressed output variations to enhance algorithm efficiency. • Executed comprehensive experiments, systematically varying parameters to conduct in-depth performance and convergence analyses. • Spearheaded the development of the K-Medoids clustering algorithm within the MapReduce framework, extending from the foundation laid by K-Means, showcasing proficiency in advanced data clustering techniques and Hadoop ecosystems.
+Skills: Java · MapReduce · Cluster Analysis · Hadoop
